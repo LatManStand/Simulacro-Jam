@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class Dash : MonoBehaviour
 {
-    public PlayerController player;
 
     private float dashStart;
     private bool isDashing;
@@ -19,7 +18,7 @@ public class Dash : MonoBehaviour
         {
             isDashing = true;
             dashStart = Time.time;
-            player.currentSpeed = dashSpeed;
+            PlayerController.instance.currentSpeed = dashSpeed;
             isOnCooldown = true;
             cooldownTimer = 0f;
         }
@@ -31,7 +30,7 @@ public class Dash : MonoBehaviour
             {
                 isDashing = false;
 
-                player.currentSpeed = player.speed;
+                PlayerController.instance.currentSpeed = PlayerController.instance.speed;
             }
         }
 

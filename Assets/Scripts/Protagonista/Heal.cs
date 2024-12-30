@@ -4,7 +4,6 @@ using UnityEngine.UIElements.Experimental;
 
 public class Heal : MonoBehaviour
 {
-    public PlayerController player;
 
     public int healing = 10;
 
@@ -22,13 +21,13 @@ public class Heal : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.E) && !isOnCooldown)
         {
-            if (player.health + healing > player.maxHealth)
+            if (PlayerController.instance.health + healing > PlayerController.instance.maxHealth)
             {
-                player.health = player.maxHealth;
+                PlayerController.instance.health = PlayerController.instance.maxHealth;
             }
             else
             {
-                player.health += healing;
+                PlayerController.instance.health += healing;
             }
             isOnCooldown = true;
             cooldownTimer = 0f;
