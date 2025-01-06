@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class LevelSystem : MonoBehaviour
 {
     public string nextLevel = "Level1";
+    public GameObject SkillSelector;
     public GameObject TimerText;
     public GameObject readyText;
     public GameObject goText;
@@ -46,6 +47,11 @@ public class LevelSystem : MonoBehaviour
     {
         TimeLeft = 0;
         TimerOn = false;
+        SkillSelector.SetActive(true);
+    }
+
+    public void LoadNextLevel()
+    {
         SceneManager.LoadScene(nextLevel);
     }
     
