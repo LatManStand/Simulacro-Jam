@@ -1,11 +1,11 @@
 using System;
 using UnityEngine;
+using UnityEngine.UIElements;
 using UnityEngine.UIElements.Experimental;
 
-public class Heal : MonoBehaviour
+public class Bomb : MonoBehaviour
 {
-
-    public int healing = 10;
+    public GameObject bombPrefab;
 
     public float cooldown = 0.2f;
     private float cooldownTimer;
@@ -21,14 +21,7 @@ public class Heal : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.E) && !isOnCooldown)
         {
-            if (PlayerController.instance.health + healing > PlayerController.instance.maxHealth)
-            {
-                PlayerController.instance.health = PlayerController.instance.maxHealth;
-            }
-            else
-            {
-                PlayerController.instance.health += healing;
-            }
+            putBomb();
             isOnCooldown = true;
             cooldownTimer = 0f;
         }
@@ -42,5 +35,9 @@ public class Heal : MonoBehaviour
                 cooldownTimer = 0f;
             }
         }
+    }
+    private void putBomb()
+    {
+        GameObject go = Instantiate(bombPrefab, transform.position, Quaternion.identity);
     }
 }

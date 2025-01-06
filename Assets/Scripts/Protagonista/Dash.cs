@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Dash : MonoBehaviour
 {
+    private Collider collider;
 
     private float dashStart;
     private bool isDashing;
@@ -12,6 +13,11 @@ public class Dash : MonoBehaviour
     private float cooldownTimer;
     private bool isOnCooldown = false;
     // Update is called once per frame
+
+    private void Awake()
+    {
+        collider = GetComponent<Collider>();
+    }
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.LeftShift) && !isDashing && !isOnCooldown)
@@ -21,6 +27,12 @@ public class Dash : MonoBehaviour
             PlayerController.instance.currentSpeed = dashSpeed;
             isOnCooldown = true;
             cooldownTimer = 0f;
+            Debug.Log("hola");
+            if(collider != null)
+            {
+                collider.enabled = false;
+                Debug.Log("entro");
+            }
         }
 
         if (isDashing)
@@ -31,6 +43,10 @@ public class Dash : MonoBehaviour
                 isDashing = false;
 
                 PlayerController.instance.currentSpeed = PlayerController.instance.speed;
+                if (collider != null)
+                {
+                    collider.enabled = true;
+                }
             }
         }
 
