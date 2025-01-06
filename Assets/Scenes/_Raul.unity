@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 38051111}
   - component: {fileID: 38051110}
   - component: {fileID: 38051113}
+  - component: {fileID: 38051114}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -181,7 +182,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 1.6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -256,6 +257,30 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!114 &38051114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38051109}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c88f5cead0c0b2a4eb05b5900433f8d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ComponentVersion: 1
+  m_AssetsPPU: 100
+  m_RefResolutionX: 480
+  m_RefResolutionY: 320
+  m_CropFrame: 0
+  m_GridSnapping: 0
+  m_FilterMode: 0
+  m_UpscaleRT: 0
+  m_PixelSnapping: 0
+  m_CropFrameX: 0
+  m_CropFrameY: 0
+  m_StretchFill: 0
 --- !u!1001 &1912975076
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -270,11 +295,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6653451408123157126, guid: ae06a342205a0c948a456d611cc70635, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.1225343
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6653451408123157126, guid: ae06a342205a0c948a456d611cc70635, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.867549
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6653451408123157126, guid: ae06a342205a0c948a456d611cc70635, type: 3}
       propertyPath: m_LocalPosition.z
@@ -364,6 +389,10 @@ PrefabInstance:
     - target: {fileID: 6094293397734526031, guid: 1eb611a3738437c49990b99061270e69, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7857326270253160880, guid: 1eb611a3738437c49990b99061270e69, type: 3}
+      propertyPath: spawnDistance
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

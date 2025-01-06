@@ -129,7 +129,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: -5606016527556892677, guid: e19a2b008c8797941be38102be57646f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -261,14 +261,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletVelocity: 1
-  lifeTime: 1
+  lifeTime: 3
   shootDirection: {fileID: 2938193696272278272}
   bulletPrefab: {fileID: 5255335375028991172, guid: a6f1a562670384fc4b9e6b42bbc19345, type: 3}
   damage: 1
-  bulletSize: 0.25
-  megaDamage: 10
-  megaBulletSize: 0.45
-  pressingTime: 1.5
+  bulletSize: 1
 --- !u!114 &6284054177280114505
 MonoBehaviour:
   m_ObjectHideFlags: 0

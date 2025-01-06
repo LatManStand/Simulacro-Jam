@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: f0adc1a098bedf04b9e1a751f7d6d1ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5725702441030524963
+    second: UI bar shoot 67x16_0
+  - first:
+      213: 7127523415750062539
+    second: UI bar shoot 67x16_1
+  - first:
+      213: -2825411652970874583
+    second: UI bar shoot 67x16_2
+  - first:
+      213: -5158118152502193272
+    second: UI bar shoot 67x16_3
+  - first:
+      213: -5669905417011619288
+    second: UI bar shoot 67x16_4
+  - first:
+      213: -8707261318648045490
+    second: UI bar shoot 67x16_5
+  - first:
+      213: -7894764578989183519
+    second: UI bar shoot 67x16_6
+  - first:
+      213: -7630289139227276610
+    second: UI bar shoot 67x16_7
+  - first:
+      213: -7506435227045035239
+    second: UI bar shoot 67x16_8
+  - first:
+      213: 8941988395048034420
+    second: UI bar shoot 67x16_9
+  - first:
+      213: 101548688214252289
+    second: UI bar shoot 67x16_10
+  - first:
+      213: -8797082253722159070
+    second: UI bar shoot 67x16_11
+  - first:
+      213: 5728033051852892706
+    second: UI bar shoot 67x16_12
+  - first:
+      213: 8086424439623597956
+    second: UI bar shoot 67x16_13
+  - first:
+      213: -6339299901241668966
+    second: UI bar shoot 67x16_14
+  - first:
+      213: 1939413123514881564
+    second: UI bar shoot 67x16_15
+  - first:
+      213: -4636689175521759032
+    second: UI bar shoot 67x16_16
+  - first:
+      213: 4775230551682034604
+    second: UI bar shoot 67x16_17
+  - first:
+      213: -4729382786694942759
+    second: UI bar shoot 67x16_18
+  - first:
+      213: 3149572353192898125
+    second: UI bar shoot 67x16_19
+  - first:
+      213: 9121134018463811676
+    second: UI bar shoot 67x16_20
+  - first:
+      213: -2187120845066921309
+    second: UI bar shoot 67x16_21
+  - first:
+      213: -1150133448151546741
+    second: UI bar shoot 67x16_22
+  - first:
+      213: 4589717885477412179
+    second: UI bar shoot 67x16_23
+  - first:
+      213: 8633612074679467698
+    second: UI bar shoot 67x16_24
+  - first:
+      213: -556251755397237202
+    second: UI bar shoot 67x16_25
+  - first:
+      213: 5018636516769885192
+    second: UI bar shoot 67x16_26
+  - first:
+      213: -5214034836929999362
+    second: UI bar shoot 67x16_27
+  - first:
+      213: 1520983037651042
+    second: UI bar shoot 67x16_28
+  - first:
+      213: -6514230326842621254
+    second: UI bar shoot 67x16_29
+  - first:
+      213: -1882762855049735403
+    second: UI bar shoot 67x16_30
+  - first:
+      213: 6652768921862516522
+    second: UI bar shoot 67x16_31
+  - first:
+      213: -3015662789977427262
+    second: UI bar shoot 67x16_32
+  - first:
+      213: 6256988710702595166
+    second: UI bar shoot 67x16_33
+  - first:
+      213: -4676372066363507709
+    second: UI bar shoot 67x16_34
+  - first:
+      213: 4177247371725402921
+    second: UI bar shoot 67x16_35
+  - first:
+      213: -2143433473181567762
+    second: UI bar shoot 67x16_36
+  - first:
+      213: -7625413239018385656
+    second: UI bar shoot 67x16_37
+  - first:
+      213: -1772298207979440470
+    second: UI bar shoot 67x16_38
+  - first:
+      213: 7474735444530905729
+    second: UI bar shoot 67x16_39
+  - first:
+      213: -6630479363126718939
+    second: UI bar shoot 67x16_40
+  - first:
+      213: -120682463841169987
+    second: UI bar shoot 67x16_41
+  - first:
+      213: 3741429414482839610
+    second: UI bar shoot 67x16_42
+  - first:
+      213: -2767065540608385918
+    second: UI bar shoot 67x16_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3202637b808c57f40800000000000000
+      internalID: 5725702441030524963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 176
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1bf0c88cc0ae260800000000000000
+      internalID: 7127523415750062539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 179
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929fb60421f1ac8d0800000000000000
+      internalID: -2825411652970874583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 164
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883dc928edeaa68b0800000000000000
+      internalID: -5158118152502193272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a95fc40137051b0800000000000000
+      internalID: -5669905417011619288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40eb77b6f7992780800000000000000
+      internalID: -8707261318648045490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 163
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed63049179207290800000000000000
+      internalID: -7894764578989183519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 148
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba46d27474cb1690800000000000000
+      internalID: -7630289139227276610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913808a8ee8c3d790800000000000000
+      internalID: -7506435227045035239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 144
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470e0809113581c70800000000000000
+      internalID: 8941988395048034420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 147
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bda607ef5c86100800000000000000
+      internalID: 101548688214252289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 132
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2287ff69c4c7ae580800000000000000
+      internalID: -8797082253722159070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a636556bf0e7f40800000000000000
+      internalID: 5728033051852892706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f3dc22f20c83070800000000000000
+      internalID: 8086424439623597956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 131
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a42dda3584608a0800000000000000
+      internalID: -6339299901241668966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 116
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16d5dbd5fd2aea10800000000000000
+      internalID: 1939413123514881564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c07027d2cb27afb0800000000000000
+      internalID: -4636689175521759032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 112
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba991f2e6054240800000000000000
+      internalID: 4775230551682034604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 115
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df6330b96bdd5eb0800000000000000
+      internalID: -4729382786694942759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 100
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e247a3e5785bb20800000000000000
+      internalID: 3149572353192898125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58444f5017c49e70800000000000000
+      internalID: 9121134018463811676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa1fe4ed29c5a1e0800000000000000
+      internalID: -2187120845066921309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 99
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84c1aaf8b7e900f0800000000000000
+      internalID: -1150133448151546741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 84
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d53277914f1bf30800000000000000
+      internalID: 4589717885477412179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2befac76070c0d770800000000000000
+      internalID: 8633612074679467698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e263cd1c9fbc748f0800000000000000
+      internalID: -556251755397237202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 83
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c6fd67257c5a540800000000000000
+      internalID: 5018636516769885192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 68
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8642e0f604a7b0800000000000000
+      internalID: -5214034836929999362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682ba57357650000800000000000000
+      internalID: 1520983037651042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab20877180ec895a0800000000000000
+      internalID: -6514230326842621254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 67
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513d57c98251fd5e0800000000000000
+      internalID: -1882762855049735403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 52
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2faf582612635c50800000000000000
+      internalID: 6652768921862516522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c238019ba63626d0800000000000000
+      internalID: -3015662789977427262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 48
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cbe09d41a45d650800000000000000
+      internalID: 6256988710702595166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 51
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cf7d2d1603a1fb0800000000000000
+      internalID: -4676372066363507709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 36
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92370a24a5098f930800000000000000
+      internalID: 4177247371725402921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4b45fcc9ef042e0800000000000000
+      internalID: -2143433473181567762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 20
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8fbe6f071d2690800000000000000
+      internalID: -7625413239018385656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 35
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6f25d7b288767e0800000000000000
+      internalID: -1772298207979440470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1824941b8489bb760800000000000000
+      internalID: 7474735444530905729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e0646262ecbf3a0800000000000000
+      internalID: -6630479363126718939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdc02440ff335ef0800000000000000
+      internalID: -120682463841169987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a388272ca3a3ce330800000000000000
+      internalID: 3741429414482839610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar shoot 67x16_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c10d52d886999d0800000000000000
+      internalID: -2767065540608385918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI bar shoot 67x16_0: 5725702441030524963
+      UI bar shoot 67x16_1: 7127523415750062539
+      UI bar shoot 67x16_10: 101548688214252289
+      UI bar shoot 67x16_11: -8797082253722159070
+      UI bar shoot 67x16_12: 5728033051852892706
+      UI bar shoot 67x16_13: 8086424439623597956
+      UI bar shoot 67x16_14: -6339299901241668966
+      UI bar shoot 67x16_15: 1939413123514881564
+      UI bar shoot 67x16_16: -4636689175521759032
+      UI bar shoot 67x16_17: 4775230551682034604
+      UI bar shoot 67x16_18: -4729382786694942759
+      UI bar shoot 67x16_19: 3149572353192898125
+      UI bar shoot 67x16_2: -2825411652970874583
+      UI bar shoot 67x16_20: 9121134018463811676
+      UI bar shoot 67x16_21: -2187120845066921309
+      UI bar shoot 67x16_22: -1150133448151546741
+      UI bar shoot 67x16_23: 4589717885477412179
+      UI bar shoot 67x16_24: 8633612074679467698
+      UI bar shoot 67x16_25: -556251755397237202
+      UI bar shoot 67x16_26: 5018636516769885192
+      UI bar shoot 67x16_27: -5214034836929999362
+      UI bar shoot 67x16_28: 1520983037651042
+      UI bar shoot 67x16_29: -6514230326842621254
+      UI bar shoot 67x16_3: -5158118152502193272
+      UI bar shoot 67x16_30: -1882762855049735403
+      UI bar shoot 67x16_31: 6652768921862516522
+      UI bar shoot 67x16_32: -3015662789977427262
+      UI bar shoot 67x16_33: 6256988710702595166
+      UI bar shoot 67x16_34: -4676372066363507709
+      UI bar shoot 67x16_35: 4177247371725402921
+      UI bar shoot 67x16_36: -2143433473181567762
+      UI bar shoot 67x16_37: -7625413239018385656
+      UI bar shoot 67x16_38: -1772298207979440470
+      UI bar shoot 67x16_39: 7474735444530905729
+      UI bar shoot 67x16_4: -5669905417011619288
+      UI bar shoot 67x16_40: -6630479363126718939
+      UI bar shoot 67x16_41: -120682463841169987
+      UI bar shoot 67x16_42: 3741429414482839610
+      UI bar shoot 67x16_43: -2767065540608385918
+      UI bar shoot 67x16_5: -8707261318648045490
+      UI bar shoot 67x16_6: -7894764578989183519
+      UI bar shoot 67x16_7: -7630289139227276610
+      UI bar shoot 67x16_8: -7506435227045035239
+      UI bar shoot 67x16_9: 8941988395048034420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

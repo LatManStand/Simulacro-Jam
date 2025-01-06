@@ -335,11 +335,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &129273105 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3216394891703790584, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-  m_PrefabInstance: {fileID: 4923871825044548657}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &187663793
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -445,57 +440,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da5abc4edb8584fab944f98285840f72, type: 3}
---- !u!114 &513870977 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1815953661691768110, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-  m_PrefabInstance: {fileID: 4923871825044548657}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1847026566}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d18d0d9a3ee9c4d1b8f323fc23988df0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!1 &673274874 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4762309777120110767, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-  m_PrefabInstance: {fileID: 4923871825044548657}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &811618916 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6415962506979045164, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-  m_PrefabInstance: {fileID: 4923871825044548657}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &811618918
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 811618916}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Events:
-    m_Signals:
-    - {fileID: 11400000, guid: 3970f2b93283e406a9677abb34d5122f, type: 2}
-    m_Events:
-    - m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 513870977}
-          m_TargetAssemblyTypeName: LevelSystem, Assembly-CSharp
-          m_MethodName: TimerStart
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
 --- !u!1 &1751853091 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3948783645441888732, guid: da5abc4edb8584fab944f98285840f72, type: 3}
@@ -514,22 +458,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1815953661691768110, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-      propertyPath: goText
-      value: 
-      objectReference: {fileID: 129273105}
-    - target: {fileID: 1815953661691768110, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-      propertyPath: TimeLeft
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1815953661691768110, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-      propertyPath: nextLevel
-      value: Level2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1815953661691768110, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-      propertyPath: readyText
-      value: 
-      objectReference: {fileID: 673274874}
     - target: {fileID: 1815953661691768110, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
       propertyPath: SkillSelector
       value: 
@@ -614,14 +542,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6360158076044410680, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 7310971024952248062, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-      propertyPath: m_SceneBindings.Array.data[4].value
-      value: 
-      objectReference: {fileID: 811618918}
     - target: {fileID: 8504990870588456778, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
       propertyPath: m_Name
       value: GameUI
@@ -629,10 +549,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6415962506979045164, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 811618918}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f1ed1a0dcf0f49b4b4dfddbe60c5924, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

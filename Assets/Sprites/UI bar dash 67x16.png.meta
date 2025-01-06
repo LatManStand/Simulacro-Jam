@@ -1,10 +1,79 @@
 fileFormatVersion: 2
-guid: 45afe99d090d349298a2e65b47499b80
+guid: b92bb7ae17a33df48a670393cab11710
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5663061954668274717
-    second: tileset_0
+      213: -6490344866218994952
+    second: UI bar dash 67x16_0
+  - first:
+      213: -7231281823814072415
+    second: UI bar dash 67x16_1
+  - first:
+      213: -4705225360337090180
+    second: UI bar dash 67x16_2
+  - first:
+      213: 2081805009411255200
+    second: UI bar dash 67x16_3
+  - first:
+      213: 2444835914611141853
+    second: UI bar dash 67x16_4
+  - first:
+      213: 2264280994821908632
+    second: UI bar dash 67x16_5
+  - first:
+      213: 1798060567896415267
+    second: UI bar dash 67x16_6
+  - first:
+      213: 6715000515905295002
+    second: UI bar dash 67x16_7
+  - first:
+      213: -6634012750023756364
+    second: UI bar dash 67x16_8
+  - first:
+      213: -7776724444993047997
+    second: UI bar dash 67x16_9
+  - first:
+      213: -8089224994534563649
+    second: UI bar dash 67x16_10
+  - first:
+      213: 5657910965766034430
+    second: UI bar dash 67x16_11
+  - first:
+      213: 6807418614478910816
+    second: UI bar dash 67x16_12
+  - first:
+      213: 8655217703909613997
+    second: UI bar dash 67x16_13
+  - first:
+      213: 4092830590443304409
+    second: UI bar dash 67x16_14
+  - first:
+      213: 8359464306280454006
+    second: UI bar dash 67x16_15
+  - first:
+      213: -4484030882519749696
+    second: UI bar dash 67x16_16
+  - first:
+      213: -2118811623761632231
+    second: UI bar dash 67x16_17
+  - first:
+      213: -6921540866313396126
+    second: UI bar dash 67x16_18
+  - first:
+      213: -1258416561077725212
+    second: UI bar dash 67x16_19
+  - first:
+      213: 6811207256801367212
+    second: UI bar dash 67x16_20
+  - first:
+      213: -7570804415419176017
+    second: UI bar dash 67x16_21
+  - first:
+      213: -7124849304544258683
+    second: UI bar dash 67x16_22
+  - first:
+      213: -7812350925991251986
+    second: UI bar dash 67x16_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,7 +166,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -110,7 +179,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -139,441 +208,529 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tileset_0
+      name: UI bar dash 67x16_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 16
-        height: 16
+        x: 4
+        y: 178
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8f7badb83f3fc45c9bfdc16e1a7ca070
-      internalID: -209192705
+      spriteID: 8f29c334bb9ade5a0800000000000000
+      internalID: -6490344866218994952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_1
+      name: UI bar dash 67x16_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
+        x: 24
+        y: 179
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a30383cb03b3c4790bd2b95dda3dc760
-      internalID: -287174449
+      spriteID: 1a7c2d48e7355ab90800000000000000
+      internalID: -7231281823814072415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_2
+      name: UI bar dash 67x16_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
+        x: 4
+        y: 162
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9ed580ed1c69742b98365e3df28c234d
-      internalID: 979779078
+      spriteID: c79c2f0d67ea3beb0800000000000000
+      internalID: -4705225360337090180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_3
+      name: UI bar dash 67x16_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
+        x: 24
+        y: 163
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cec67ad17a673463dac188179a900cc7
-      internalID: -2114901597
+      spriteID: 0ab269d40ae04ec10800000000000000
+      internalID: 2081805009411255200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_4
+      name: UI bar dash 67x16_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
+        x: 4
+        y: 146
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 799fe0bc381d148008794e9b4981f876
-      internalID: 1474878972
+      spriteID: ddca380af4dcde120800000000000000
+      internalID: 2444835914611141853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_5
+      name: UI bar dash 67x16_5
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
+        x: 24
+        y: 147
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7a04e537e8c8948679f815ac66b8cd72
-      internalID: -717147192
+      spriteID: 898270071975c6f10800000000000000
+      internalID: 2264280994821908632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_6
+      name: UI bar dash 67x16_6
       rect:
         serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
+        x: 4
+        y: 130
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2874f1c13afb44c1fbea4bfb7a81c392
-      internalID: 1677709237
+      spriteID: 32c5a1a5f8ef3f810800000000000000
+      internalID: 1798060567896415267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_7
+      name: UI bar dash 67x16_7
       rect:
         serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 16
+        x: 24
+        y: 131
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9370ef00cb3624dd5a76abb2f8ab8f63
-      internalID: 2082059823
+      spriteID: a9299114469703d50800000000000000
+      internalID: 6715000515905295002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_8
+      name: UI bar dash 67x16_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
+        x: 4
+        y: 114
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 99dce7870e3b64db6b63f0b9ecacf85e
-      internalID: -189862363
+      spriteID: 4b5fb676d804fe3a0800000000000000
+      internalID: -6634012750023756364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_9
+      name: UI bar dash 67x16_9
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
+        x: 24
+        y: 115
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9fb42eafcfe69452c92bf42e10c6a32a
-      internalID: -830582844
+      spriteID: 342b714f156831490800000000000000
+      internalID: -7776724444993047997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_10
+      name: UI bar dash 67x16_10
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
+        x: 4
+        y: 98
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 55c9e4bdfabd14445948e90101e18ef4
-      internalID: -1806900793
+      spriteID: fb06e8cd9bc4dbf80800000000000000
+      internalID: -8089224994534563649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_11
+      name: UI bar dash 67x16_11
       rect:
         serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
+        x: 24
+        y: 99
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9f354325157ef4a608b88ff2ce03963b
-      internalID: 309024248
+      spriteID: ef39545eb00f48e40800000000000000
+      internalID: 5657910965766034430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_12
+      name: UI bar dash 67x16_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
+        x: 4
+        y: 82
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e8b05f3f15dbc42fe94846e586fc7fb9
-      internalID: -751234807
+      spriteID: 065b561a92fc87e50800000000000000
+      internalID: 6807418614478910816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_13
+      name: UI bar dash 67x16_13
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
+        x: 24
+        y: 83
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6ea8420100e5447a8afa6017aae13b8f
-      internalID: 596417484
+      spriteID: da16437f4a28d1870800000000000000
+      internalID: 8655217703909613997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_14
+      name: UI bar dash 67x16_14
       rect:
         serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
+        x: 4
+        y: 66
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a5367fd945b3a45f1bb95c9c952e5dfe
-      internalID: -1967506070
+      spriteID: 9d5b93dbcb7acc830800000000000000
+      internalID: 4092830590443304409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_15
+      name: UI bar dash 67x16_15
       rect:
         serializedVersion: 2
-        x: 48
-        y: 16
-        width: 16
-        height: 16
+        x: 24
+        y: 67
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bcbf4921631ed412681311aabb40630a
-      internalID: -136245380
+      spriteID: 67757680f78c20470800000000000000
+      internalID: 8359464306280454006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_16
+      name: UI bar dash 67x16_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 4
+        y: 50
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cab6347f5e2d84029b1bd7843b8245c9
-      internalID: -1544740033
+      spriteID: 0cb67857ba585c1c0800000000000000
+      internalID: -4484030882519749696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_17
+      name: UI bar dash 67x16_17
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
+        x: 24
+        y: 51
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ccbc5186a63df498f839862a50cac4ae
-      internalID: 1527836664
+      spriteID: 91428bbdd087892e0800000000000000
+      internalID: -2118811623761632231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_18
+      name: UI bar dash 67x16_18
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
+        x: 4
+        y: 34
+        width: 21
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a630543b68b4c412494fc1503e5ef921
-      internalID: -198839069
+      spriteID: 2606a05014fb1ff90800000000000000
+      internalID: -6921540866313396126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_19
+      name: UI bar dash 67x16_19
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
+        x: 24
+        y: 35
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4c9865fe381354aefbf77af6fd8a5042
-      internalID: -2140068229
+      spriteID: 4e75e791ec4398ee0800000000000000
+      internalID: -1258416561077725212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar dash 67x16_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca45539a9e4468e50800000000000000
+      internalID: 6811207256801367212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar dash 67x16_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab2bfafe791fe690800000000000000
+      internalID: -7570804415419176017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar dash 67x16_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585537c7e437f1d90800000000000000
+      internalID: -7124849304544258683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar dash 67x16_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefe8937934f49390800000000000000
+      internalID: -7812350925991251986
       vertices: []
       indices: 
       edges: []
@@ -582,7 +739,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 89df57eb991914656bc4a89316b46a8a
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -592,26 +749,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tileset_0: -209192705
-      tileset_1: -287174449
-      tileset_10: -1806900793
-      tileset_11: 309024248
-      tileset_12: -751234807
-      tileset_13: 596417484
-      tileset_14: -1967506070
-      tileset_15: -136245380
-      tileset_16: -1544740033
-      tileset_17: 1527836664
-      tileset_18: -198839069
-      tileset_19: -2140068229
-      tileset_2: 979779078
-      tileset_3: -2114901597
-      tileset_4: 1474878972
-      tileset_5: -717147192
-      tileset_6: 1677709237
-      tileset_7: 2082059823
-      tileset_8: -189862363
-      tileset_9: -830582844
+      UI bar dash 67x16_0: -6490344866218994952
+      UI bar dash 67x16_1: -7231281823814072415
+      UI bar dash 67x16_10: -8089224994534563649
+      UI bar dash 67x16_11: 5657910965766034430
+      UI bar dash 67x16_12: 6807418614478910816
+      UI bar dash 67x16_13: 8655217703909613997
+      UI bar dash 67x16_14: 4092830590443304409
+      UI bar dash 67x16_15: 8359464306280454006
+      UI bar dash 67x16_16: -4484030882519749696
+      UI bar dash 67x16_17: -2118811623761632231
+      UI bar dash 67x16_18: -6921540866313396126
+      UI bar dash 67x16_19: -1258416561077725212
+      UI bar dash 67x16_2: -4705225360337090180
+      UI bar dash 67x16_20: 6811207256801367212
+      UI bar dash 67x16_21: -7570804415419176017
+      UI bar dash 67x16_22: -7124849304544258683
+      UI bar dash 67x16_23: -7812350925991251986
+      UI bar dash 67x16_3: 2081805009411255200
+      UI bar dash 67x16_4: 2444835914611141853
+      UI bar dash 67x16_5: 2264280994821908632
+      UI bar dash 67x16_6: 1798060567896415267
+      UI bar dash 67x16_7: 6715000515905295002
+      UI bar dash 67x16_8: -6634012750023756364
+      UI bar dash 67x16_9: -7776724444993047997
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

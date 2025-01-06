@@ -1,10 +1,79 @@
 fileFormatVersion: 2
-guid: 45afe99d090d349298a2e65b47499b80
+guid: b1706b8febf57714da27cef960a013c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5663061954668274717
-    second: tileset_0
+      213: 3605767270608339031
+    second: UI bar wave 67x16_0
+  - first:
+      213: -4124047350717520732
+    second: UI bar wave 67x16_1
+  - first:
+      213: -5885721613238742305
+    second: UI bar wave 67x16_2
+  - first:
+      213: 6475670793879646861
+    second: UI bar wave 67x16_3
+  - first:
+      213: 2656130835641709036
+    second: UI bar wave 67x16_4
+  - first:
+      213: -6346613854868240563
+    second: UI bar wave 67x16_5
+  - first:
+      213: 6901985910398923528
+    second: UI bar wave 67x16_6
+  - first:
+      213: 8733223347145674176
+    second: UI bar wave 67x16_7
+  - first:
+      213: -4963026902701664020
+    second: UI bar wave 67x16_8
+  - first:
+      213: -1498058793297558110
+    second: UI bar wave 67x16_9
+  - first:
+      213: -197734353103985875
+    second: UI bar wave 67x16_10
+  - first:
+      213: -6769783865472603137
+    second: UI bar wave 67x16_11
+  - first:
+      213: -2774491898048907363
+    second: UI bar wave 67x16_12
+  - first:
+      213: 3805262268386369788
+    second: UI bar wave 67x16_13
+  - first:
+      213: -6538141863098130153
+    second: UI bar wave 67x16_14
+  - first:
+      213: 8315450159014988045
+    second: UI bar wave 67x16_15
+  - first:
+      213: -2605422612341836427
+    second: UI bar wave 67x16_16
+  - first:
+      213: -3408351366925733052
+    second: UI bar wave 67x16_17
+  - first:
+      213: 5556596520381875060
+    second: UI bar wave 67x16_18
+  - first:
+      213: -1301149367547377711
+    second: UI bar wave 67x16_19
+  - first:
+      213: 1249843906255153308
+    second: UI bar wave 67x16_20
+  - first:
+      213: 5890666369737410387
+    second: UI bar wave 67x16_21
+  - first:
+      213: -6962802265490969765
+    second: UI bar wave 67x16_22
+  - first:
+      213: -6015630704857543245
+    second: UI bar wave 67x16_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,7 +166,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -110,7 +179,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -139,441 +208,529 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tileset_0
+      name: UI bar wave 67x16_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 16
-        height: 16
+        y: 179
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8f7badb83f3fc45c9bfdc16e1a7ca070
-      internalID: -209192705
+      spriteID: 750075b7a324a0230800000000000000
+      internalID: 3605767270608339031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_1
+      name: UI bar wave 67x16_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
+        x: 42
+        y: 178
+        width: 23
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a30383cb03b3c4790bd2b95dda3dc760
-      internalID: -287174449
+      spriteID: 4a4679fd8c074c6c0800000000000000
+      internalID: -4124047350717520732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ed580ed1c69742b98365e3df28c234d
-      internalID: 979779078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cec67ad17a673463dac188179a900cc7
-      internalID: -2114901597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_4
+      name: UI bar wave 67x16_2
       rect:
         serializedVersion: 2
         x: 0
-        y: 48
-        width: 16
-        height: 16
+        y: 163
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 799fe0bc381d148008794e9b4981f876
-      internalID: 1474878972
+      spriteID: fd2d01c6067b15ea0800000000000000
+      internalID: -5885721613238742305
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_5
+      name: UI bar wave 67x16_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
+        x: 42
+        y: 162
+        width: 23
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7a04e537e8c8948679f815ac66b8cd72
-      internalID: -717147192
+      spriteID: d82719707443ed950800000000000000
+      internalID: 6475670793879646861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_6
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2874f1c13afb44c1fbea4bfb7a81c392
-      internalID: 1677709237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_7
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9370ef00cb3624dd5a76abb2f8ab8f63
-      internalID: 2082059823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_8
+      name: UI bar wave 67x16_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
-        width: 16
-        height: 16
+        y: 147
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 99dce7870e3b64db6b63f0b9ecacf85e
-      internalID: -189862363
+      spriteID: ce1b2671ce87cd420800000000000000
+      internalID: 2656130835641709036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_9
+      name: UI bar wave 67x16_5
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
+        x: 42
+        y: 146
+        width: 23
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9fb42eafcfe69452c92bf42e10c6a32a
-      internalID: -830582844
+      spriteID: d478106235c4ce7a0800000000000000
+      internalID: -6346613854868240563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_10
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55c9e4bdfabd14445948e90101e18ef4
-      internalID: -1806900793
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_11
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f354325157ef4a608b88ff2ce03963b
-      internalID: 309024248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_12
+      name: UI bar wave 67x16_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 16
-        width: 16
-        height: 16
+        y: 131
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e8b05f3f15dbc42fe94846e586fc7fb9
-      internalID: -751234807
+      spriteID: 80334120e97c8cf50800000000000000
+      internalID: 6901985910398923528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_13
+      name: UI bar wave 67x16_7
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
+        x: 42
+        y: 130
+        width: 23
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6ea8420100e5447a8afa6017aae13b8f
-      internalID: 596417484
+      spriteID: 0cd04c61d54a23970800000000000000
+      internalID: 8733223347145674176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_14
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5367fd945b3a45f1bb95c9c952e5dfe
-      internalID: -1967506070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_15
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcbf4921631ed412681311aabb40630a
-      internalID: -136245380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_16
+      name: UI bar wave 67x16_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 16
-        height: 16
+        y: 115
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cab6347f5e2d84029b1bd7843b8245c9
-      internalID: -1544740033
+      spriteID: ce892c5c359cf1bb0800000000000000
+      internalID: -4963026902701664020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_17
+      name: UI bar wave 67x16_9
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
+        x: 42
+        y: 114
+        width: 23
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ccbc5186a63df498f839862a50cac4ae
-      internalID: 1527836664
+      spriteID: 2a549dce673d53be0800000000000000
+      internalID: -1498058793297558110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_18
+      name: UI bar wave 67x16_10
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
+        x: 0
+        y: 99
+        width: 43
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a630543b68b4c412494fc1503e5ef921
-      internalID: -198839069
+      spriteID: d23685b47a1814df0800000000000000
+      internalID: -197734353103985875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_19
+      name: UI bar wave 67x16_11
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
+        x: 42
+        y: 98
+        width: 23
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4c9865fe381354aefbf77af6fd8a5042
-      internalID: -2140068229
+      spriteID: ffba5543175ec02a0800000000000000
+      internalID: -6769783865472603137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97789091560f79d0800000000000000
+      internalID: -2774491898048907363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0ed583fd10fc430800000000000000
+      internalID: 3805262268386369788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711ece6bd9ad345a0800000000000000
+      internalID: -6538141863098130153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09cd8bccd9666370800000000000000
+      internalID: 8315450159014988045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575389d20fda7dbd0800000000000000
+      internalID: -2605422612341836427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443bca07d7a13b0d0800000000000000
+      internalID: -3408351366925733052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473888d581ffc1d40800000000000000
+      internalID: 5556596520381875060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d74d934b8361fde0800000000000000
+      internalID: -1301149367547377711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9866092966585110800000000000000
+      internalID: 1249843906255153308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357c98a6ad9dfb150800000000000000
+      internalID: 5890666369737410387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b2024ea382f5f90800000000000000
+      internalID: -6962802265490969765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI bar wave 67x16_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd88010fbf248ca0800000000000000
+      internalID: -6015630704857543245
       vertices: []
       indices: 
       edges: []
@@ -582,7 +739,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 89df57eb991914656bc4a89316b46a8a
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -592,26 +749,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tileset_0: -209192705
-      tileset_1: -287174449
-      tileset_10: -1806900793
-      tileset_11: 309024248
-      tileset_12: -751234807
-      tileset_13: 596417484
-      tileset_14: -1967506070
-      tileset_15: -136245380
-      tileset_16: -1544740033
-      tileset_17: 1527836664
-      tileset_18: -198839069
-      tileset_19: -2140068229
-      tileset_2: 979779078
-      tileset_3: -2114901597
-      tileset_4: 1474878972
-      tileset_5: -717147192
-      tileset_6: 1677709237
-      tileset_7: 2082059823
-      tileset_8: -189862363
-      tileset_9: -830582844
+      UI bar wave 67x16_0: 3605767270608339031
+      UI bar wave 67x16_1: -4124047350717520732
+      UI bar wave 67x16_10: -197734353103985875
+      UI bar wave 67x16_11: -6769783865472603137
+      UI bar wave 67x16_12: -2774491898048907363
+      UI bar wave 67x16_13: 3805262268386369788
+      UI bar wave 67x16_14: -6538141863098130153
+      UI bar wave 67x16_15: 8315450159014988045
+      UI bar wave 67x16_16: -2605422612341836427
+      UI bar wave 67x16_17: -3408351366925733052
+      UI bar wave 67x16_18: 5556596520381875060
+      UI bar wave 67x16_19: -1301149367547377711
+      UI bar wave 67x16_2: -5885721613238742305
+      UI bar wave 67x16_20: 1249843906255153308
+      UI bar wave 67x16_21: 5890666369737410387
+      UI bar wave 67x16_22: -6962802265490969765
+      UI bar wave 67x16_23: -6015630704857543245
+      UI bar wave 67x16_3: 6475670793879646861
+      UI bar wave 67x16_4: 2656130835641709036
+      UI bar wave 67x16_5: -6346613854868240563
+      UI bar wave 67x16_6: 6901985910398923528
+      UI bar wave 67x16_7: 8733223347145674176
+      UI bar wave 67x16_8: -4963026902701664020
+      UI bar wave 67x16_9: -1498058793297558110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

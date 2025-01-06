@@ -121,7 +121,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.4220775, y: -0.25974035, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 4299095572017734728}
@@ -173,8 +173,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -732657778, guid: 72d99b6f4c6bc4221ab3a8c376ea2f99, type: 3}
-  m_Color: {r: 1, g: 0, b: 0.7322521, a: 1}
+  m_Sprite: {fileID: -1852538468777866792, guid: 861802642e22ccb4f949ac5421a3ab4d, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -200,7 +200,7 @@ MonoBehaviour:
   speed: 2
   maxHealth: 5
   health: 5
-  minDistanceToPlayer: 5
+  minDistanceToPlayer: 1.2
   targetPosition: {x: 0, y: 0, z: 0}
   shootDelay: 0.2
   shootCooldown: 2
