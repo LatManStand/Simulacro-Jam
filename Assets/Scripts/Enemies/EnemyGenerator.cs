@@ -38,7 +38,7 @@ public class EnemyGenerator : MonoBehaviour
         Enemy newEnemy = Instantiate(enemyPrefabs[Random.Range(0, enemyPrefabs.Count)]);
         enemies.Add(newEnemy);
 
-        newEnemy.transform.position = Random.insideUnitCircle.normalized * spawnDistance;
+        newEnemy.transform.position = (Vector2)PlayerController.instance.transform.position + Random.insideUnitCircle.normalized * spawnDistance;
         newEnemy.transform.parent = transform;
 
         Invoke(nameof(SpawnEnemy), defaultSpawnTime + Random.Range(-variableSpawnTime, variableSpawnTime));
