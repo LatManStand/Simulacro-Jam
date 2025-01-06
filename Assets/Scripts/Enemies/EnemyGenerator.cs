@@ -11,6 +11,8 @@ public class EnemyGenerator : MonoBehaviour
     public List<Enemy> enemyPrefabs;
     public List<Enemy> enemies;
 
+    public Transform bulletsParent;
+
     public float spawnDistance;
 
     public void Awake()

@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -178,6 +178,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -185,9 +211,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 176
-        width: 16
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -207,9 +233,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_1
       rect:
         serializedVersion: 2
-        x: 17
-        y: 176
-        width: 16
+        x: 0
+        y: 160
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -229,9 +255,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_2
       rect:
         serializedVersion: 2
-        x: 33
-        y: 176
-        width: 16
+        x: 0
+        y: 144
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -251,9 +277,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_3
       rect:
         serializedVersion: 2
-        x: 49
-        y: 176
-        width: 16
+        x: 0
+        y: 128
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -273,9 +299,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_4
       rect:
         serializedVersion: 2
-        x: 1
-        y: 160
-        width: 16
+        x: 0
+        y: 112
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -295,9 +321,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_5
       rect:
         serializedVersion: 2
-        x: 17
-        y: 160
-        width: 16
+        x: 0
+        y: 96
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -317,9 +343,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_6
       rect:
         serializedVersion: 2
-        x: 33
-        y: 160
-        width: 16
+        x: 0
+        y: 80
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -339,9 +365,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_7
       rect:
         serializedVersion: 2
-        x: 49
-        y: 160
-        width: 16
+        x: 0
+        y: 64
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -361,9 +387,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_8
       rect:
         serializedVersion: 2
-        x: 1
-        y: 144
-        width: 16
+        x: 0
+        y: 48
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -383,9 +409,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_9
       rect:
         serializedVersion: 2
-        x: 17
-        y: 144
-        width: 16
+        x: 0
+        y: 32
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -405,9 +431,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_10
       rect:
         serializedVersion: 2
-        x: 33
-        y: 144
-        width: 16
+        x: 0
+        y: 16
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -427,9 +453,9 @@ TextureImporter:
       name: UI_bar_wave_67x16_11
       rect:
         serializedVersion: 2
-        x: 49
-        y: 144
-        width: 16
+        x: 0
+        y: 0
+        width: 67
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -441,798 +467,6 @@ TextureImporter:
       bones: []
       spriteID: 6933d64b2ccb24844ba3f9885fff1af3
       internalID: 427448269
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_12
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4bd014665b61e4421b5f30f9605fa8c6
-      internalID: 679641978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_13
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c64a2a32636847579faa70ef87e9a5e
-      internalID: 339874257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_14
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef0fed94055464a12982c8b7ff9df9b3
-      internalID: -1658627773
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_15
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7e1f86e0a5b034bb9b5fd2ee5929129a
-      internalID: -1274829487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_16
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d7a79993f1ea7454fab2f18d2f046e2f
-      internalID: -1963043745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_17
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a4eb411dc96a34d5fbef6a510fd8db0b
-      internalID: -749666987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_18
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63833562e3e89432eaee1a3cf5f79ea1
-      internalID: 302646025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_19
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36cfd78b382934765ab43587b909ce80
-      internalID: 779215430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_20
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64965a7a07908495faa23c36165c028b
-      internalID: 515937620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_21
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfc35662f9a0744bf91f2807f2e053a4
-      internalID: -1780180964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_22
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0dff16cb8e87d4a429688dbba86efd4e
-      internalID: -1703685752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_23
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f86d96aa9abce41d8abca15a38aee387
-      internalID: 2113414849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_24
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c5044fc58b7142c7ad206aa576abe03
-      internalID: -975102026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_25
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20dda567e5eee48489ddd49536635131
-      internalID: -2121312865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_26
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b7adf833003c46178bc74c2ec9297d9
-      internalID: 1648009694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_27
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24fd723029ba84c49a4dd1094fb63064
-      internalID: 662882297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_28
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73af3c07cdaec4bba95b08f685445d16
-      internalID: -1720294363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_29
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fa7c6257ba6648e5a17ded62b3fec81
-      internalID: -1359104591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_30
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bab9daaf05f6847159f62907925891b7
-      internalID: 1821788935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_31
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 943e0c656bcd84b6cbf3087d6089e989
-      internalID: -1689057191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_32
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c5b4856d087846418bf047f6bd3a06d
-      internalID: -1742258481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_33
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d829333bab813403f989f47d95c8e9b6
-      internalID: 336955537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_34
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ec16a0889c1e84a2dae3ae251115058b
-      internalID: 114493719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_35
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26233ec67fe1c494ca77177be704c34d
-      internalID: -1631519169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_36
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f5023ef4d5464c3da90d60692706209
-      internalID: 1253942022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_37
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12802e70204af44f59118bc3881e0366
-      internalID: 1852930422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_38
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce98a339c65224323bf7e7024337e119
-      internalID: 1617908275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_39
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70d8a07fe268847ce9b46e77ff2dbc3a
-      internalID: -1138215460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_40
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a1855bfc351f4374bb75a25e686c646
-      internalID: -952645235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_41
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cce030a10b1ef4440ab638399706d328
-      internalID: 896545237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_42
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 895f00df06d5a4b84ab7c851de85e8c7
-      internalID: 1506768449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_43
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffa5b9c7eac3f4ba0a71029da45de53f
-      internalID: -908427377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_44
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf34a6fb764da42f788de5de7d37aef4
-      internalID: 14028964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_45
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b3590c1fcbf46495badf246e29c56bca
-      internalID: 1823766734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_46
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bc3a7f8d67e27468a93a857270161397
-      internalID: 1191354356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI_bar_wave_67x16_47
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7297927ee2d14711bd8503b602a0a48
-      internalID: 1297899647
       vertices: []
       indices: 
       edges: []
@@ -1255,45 +489,9 @@ TextureImporter:
       UI_bar_wave_67x16_1: 616999365
       UI_bar_wave_67x16_10: 2055236740
       UI_bar_wave_67x16_11: 427448269
-      UI_bar_wave_67x16_12: 679641978
-      UI_bar_wave_67x16_13: 339874257
-      UI_bar_wave_67x16_14: -1658627773
-      UI_bar_wave_67x16_15: -1274829487
-      UI_bar_wave_67x16_16: -1963043745
-      UI_bar_wave_67x16_17: -749666987
-      UI_bar_wave_67x16_18: 302646025
-      UI_bar_wave_67x16_19: 779215430
       UI_bar_wave_67x16_2: -1933624550
-      UI_bar_wave_67x16_20: 515937620
-      UI_bar_wave_67x16_21: -1780180964
-      UI_bar_wave_67x16_22: -1703685752
-      UI_bar_wave_67x16_23: 2113414849
-      UI_bar_wave_67x16_24: -975102026
-      UI_bar_wave_67x16_25: -2121312865
-      UI_bar_wave_67x16_26: 1648009694
-      UI_bar_wave_67x16_27: 662882297
-      UI_bar_wave_67x16_28: -1720294363
-      UI_bar_wave_67x16_29: -1359104591
       UI_bar_wave_67x16_3: -1327038981
-      UI_bar_wave_67x16_30: 1821788935
-      UI_bar_wave_67x16_31: -1689057191
-      UI_bar_wave_67x16_32: -1742258481
-      UI_bar_wave_67x16_33: 336955537
-      UI_bar_wave_67x16_34: 114493719
-      UI_bar_wave_67x16_35: -1631519169
-      UI_bar_wave_67x16_36: 1253942022
-      UI_bar_wave_67x16_37: 1852930422
-      UI_bar_wave_67x16_38: 1617908275
-      UI_bar_wave_67x16_39: -1138215460
       UI_bar_wave_67x16_4: -860286873
-      UI_bar_wave_67x16_40: -952645235
-      UI_bar_wave_67x16_41: 896545237
-      UI_bar_wave_67x16_42: 1506768449
-      UI_bar_wave_67x16_43: -908427377
-      UI_bar_wave_67x16_44: 14028964
-      UI_bar_wave_67x16_45: 1823766734
-      UI_bar_wave_67x16_46: 1191354356
-      UI_bar_wave_67x16_47: 1297899647
       UI_bar_wave_67x16_5: -1713592845
       UI_bar_wave_67x16_6: -1643914879
       UI_bar_wave_67x16_7: 497467558
