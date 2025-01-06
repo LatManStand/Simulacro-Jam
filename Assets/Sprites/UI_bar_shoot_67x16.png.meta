@@ -1,0 +1,1230 @@
+fileFormatVersion: 2
+guid: 0623e831d67f8468780d69fb3e35a047
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2428257096790717612
+    second: UI_bar_shoot_67x16_0
+  - first:
+      213: -6853633558037543793
+    second: UI_bar_shoot_67x16_1
+  - first:
+      213: 2357013658120759628
+    second: UI_bar_shoot_67x16_2
+  - first:
+      213: -2474484606532984635
+    second: UI_bar_shoot_67x16_3
+  - first:
+      213: 1587845400480244416
+    second: UI_bar_shoot_67x16_4
+  - first:
+      213: -4186691798889110904
+    second: UI_bar_shoot_67x16_5
+  - first:
+      213: -6628560223422810518
+    second: UI_bar_shoot_67x16_6
+  - first:
+      213: -4870052063262020803
+    second: UI_bar_shoot_67x16_7
+  - first:
+      213: -3497545192606392646
+    second: UI_bar_shoot_67x16_8
+  - first:
+      213: -2244914652945738125
+    second: UI_bar_shoot_67x16_9
+  - first:
+      213: -5638941118624734141
+    second: UI_bar_shoot_67x16_10
+  - first:
+      213: -1427893163692073727
+    second: UI_bar_shoot_67x16_11
+  - first:
+      213: -6594004258029641962
+    second: UI_bar_shoot_67x16_12
+  - first:
+      213: 2447733570168920676
+    second: UI_bar_shoot_67x16_13
+  - first:
+      213: -5593743487036459152
+    second: UI_bar_shoot_67x16_14
+  - first:
+      213: 4238085914450188558
+    second: UI_bar_shoot_67x16_15
+  - first:
+      213: 8316920117372363853
+    second: UI_bar_shoot_67x16_16
+  - first:
+      213: -4769107671636553284
+    second: UI_bar_shoot_67x16_17
+  - first:
+      213: 3879016508176939416
+    second: UI_bar_shoot_67x16_18
+  - first:
+      213: 151116646285887820
+    second: UI_bar_shoot_67x16_19
+  - first:
+      213: -7881267018439005928
+    second: UI_bar_shoot_67x16_20
+  - first:
+      213: -2716443011040447141
+    second: UI_bar_shoot_67x16_21
+  - first:
+      213: -3253402574872206916
+    second: UI_bar_shoot_67x16_22
+  - first:
+      213: 8951236645164511102
+    second: UI_bar_shoot_67x16_23
+  - first:
+      213: -284909863937775549
+    second: UI_bar_shoot_67x16_24
+  - first:
+      213: 4132788316670974892
+    second: UI_bar_shoot_67x16_25
+  - first:
+      213: 3654216343581795716
+    second: UI_bar_shoot_67x16_26
+  - first:
+      213: 1456707714918799938
+    second: UI_bar_shoot_67x16_27
+  - first:
+      213: -1957910935745469303
+    second: UI_bar_shoot_67x16_28
+  - first:
+      213: 2137134396129445330
+    second: UI_bar_shoot_67x16_29
+  - first:
+      213: 2159172431662533363
+    second: UI_bar_shoot_67x16_30
+  - first:
+      213: 1737401006455619960
+    second: UI_bar_shoot_67x16_31
+  - first:
+      213: -9085127287099727443
+    second: UI_bar_shoot_67x16_32
+  - first:
+      213: -4716676144727584501
+    second: UI_bar_shoot_67x16_33
+  - first:
+      213: 964241772805180181
+    second: UI_bar_shoot_67x16_34
+  - first:
+      213: -9179544466826752398
+    second: UI_bar_shoot_67x16_35
+  - first:
+      213: 1476937770372892456
+    second: UI_bar_shoot_67x16_36
+  - first:
+      213: 3774291065724100753
+    second: UI_bar_shoot_67x16_37
+  - first:
+      213: 7585709665286432404
+    second: UI_bar_shoot_67x16_38
+  - first:
+      213: -6514327048012872356
+    second: UI_bar_shoot_67x16_39
+  - first:
+      213: 2386164978405056552
+    second: UI_bar_shoot_67x16_40
+  - first:
+      213: 146683379211303340
+    second: UI_bar_shoot_67x16_41
+  - first:
+      213: 5950140638358897000
+    second: UI_bar_shoot_67x16_42
+  - first:
+      213: -3614125612901265750
+    second: UI_bar_shoot_67x16_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4388dc6f6e2b120800000000000000
+      internalID: 2428257096790717612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 176
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84c970579003e0a0800000000000000
+      internalID: -6853633558037543793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 179
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49280f1f6bc5b020800000000000000
+      internalID: 2357013658120759628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 164
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0ed695c5dd8add0800000000000000
+      internalID: -2474484606532984635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2ecdd9af8290610800000000000000
+      internalID: 1587845400480244416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 160
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8826c2fadf1e5e5c0800000000000000
+      internalID: -4186691798889110904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 163
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66799ea89f9204a0800000000000000
+      internalID: -6628560223422810518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 148
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3beb9b73791a6cb0800000000000000
+      internalID: -4870052063262020803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe12d89d29367fc0800000000000000
+      internalID: -3497545192606392646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 144
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3769918640678d0e0800000000000000
+      internalID: -2244914652945738125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 147
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3446703dde47eb1b0800000000000000
+      internalID: -5638941118624734141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 132
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ddce0abba1f2ce0800000000000000
+      internalID: -1427893163692073727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fdab850146d74a0800000000000000
+      internalID: -6594004258029641962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a97b2a6b818f120800000000000000
+      internalID: 2447733570168920676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 131
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077798a7fe70f52b0800000000000000
+      internalID: -5593743487036459152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 116
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09d3625fa4b0da30800000000000000
+      internalID: 4238085914450188558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44a74528c2ab6370800000000000000
+      internalID: 8316920117372363853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 112
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1538827d9b0ddb0800000000000000
+      internalID: -4769107671636553284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 115
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89933c756f805d530800000000000000
+      internalID: 3879016508176939416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 100
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49c4850acfd81200800000000000000
+      internalID: 151116646285887820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819e0f9476d10a290800000000000000
+      internalID: -7881267018439005928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55775a49714d4ad0800000000000000
+      internalID: -2716443011040447141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 99
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1a66d689799d2d0800000000000000
+      internalID: -3253402574872206916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 84
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f6d779d4e293c70800000000000000
+      internalID: 8951236645164511102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348ebfefcfbcb0cf0800000000000000
+      internalID: -284909863937775549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabde0bd31d9a5930800000000000000
+      internalID: 4132788316670974892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 83
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485ae93576266b230800000000000000
+      internalID: 3654216343581795716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 68
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a5e41e2f3473410800000000000000
+      internalID: 1456707714918799938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984e90d906a14d4e0800000000000000
+      internalID: -1957910935745469303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d580960960a8ad10800000000000000
+      internalID: 2137134396129445330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 67
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3facf0603ebe6fd10800000000000000
+      internalID: 2159172431662533363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 52
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871813e920d7c1810800000000000000
+      internalID: 1737401006455619960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da166311ed42be180800000000000000
+      internalID: -9085127287099727443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 48
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0114f059000b8eb0800000000000000
+      internalID: -4716676144727584501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 51
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b45a998cca16d00800000000000000
+      internalID: 964241772805180181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 36
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e83e651f4bb9080800000000000000
+      internalID: -9179544466826752398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8270f66b3132f7410800000000000000
+      internalID: 1476937770372892456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 20
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1906a6b2ab9f06430800000000000000
+      internalID: 3774291065724100753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 35
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49625a0ffbad54960800000000000000
+      internalID: 7585709665286432404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55497070167895a0800000000000000
+      internalID: -6514327048012872356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820af49c76c5d1120800000000000000
+      internalID: 2386164978405056552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9f75891cf190200800000000000000
+      internalID: 146683379211303340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8618ff8a265239250800000000000000
+      internalID: 5950140638358897000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_bar_shoot_67x16_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae016d47eb08ddc0800000000000000
+      internalID: -3614125612901265750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
