@@ -7,7 +7,7 @@ public class Enemy : MonoBehaviour
     public float speed = 2;
     public int maxHealth = 5;
     public int health = 5;
-
+    public Rigidbody2D rb;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,6 +23,7 @@ public class Enemy : MonoBehaviour
             //targetPlayer = GameObject.FindWithTag("Player");
             targetPlayer = PlayerController.instance.gameObject;
         }
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -34,9 +35,9 @@ public class Enemy : MonoBehaviour
 
     public virtual void Move()
     {
-        if (targetPlayer)
+        if (targetPlayer && rb)
         {
-            transform.position += (targetPlayer.transform.position - transform.position).normalized * speed * Time.deltaTime;
+            rb.MovePosition(transform.position + (targetPlayer.transform.position - transform.position).normalized * speed * Time.deltaTime);
         }
     }
     public virtual void Look()
@@ -47,15 +48,16 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (other.CompareTag("PlayerBullet"))
+        if (collision.collider.CompareTag("PlayerBullet"))
         {
             health--;
             if (health <= 0)
             {
                 EnemyGenerator.instance.KillEnemy(this);
             }
+            Destroy(collision.collider.gameObject);
         }
     }
 }

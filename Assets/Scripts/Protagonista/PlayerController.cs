@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
-        if(instance == null)
+        if (instance == null)
         {
             instance = this;
             DontDestroyOnLoad(gameObject);
@@ -29,19 +29,13 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-        
-    }
 
     void FixedUpdate()
     {
         float horizontalMove = Input.GetAxis("Horizontal");
         float verticalMove = Input.GetAxis("Vertical");
         Vector2 movement = new Vector2(horizontalMove, verticalMove);
-        
+
         rb.linearVelocity = movement * currentSpeed;
     }
 
@@ -52,6 +46,15 @@ public class PlayerController : MonoBehaviour
         {
             // Game Over
             Debug.Log("Game Over");
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("EnemyBullet"))
+        {
+            TakeDamage(1);
+            Destroy(collision.collider.gameObject);
         }
     }
 }

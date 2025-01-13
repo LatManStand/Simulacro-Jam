@@ -25,7 +25,7 @@ public class ShooterEnemy : Enemy
         if (targetPlayer)
         {
             targetPosition = targetPlayer.transform.position + (transform.position - targetPlayer.transform.position).normalized * minDistanceToPlayer;
-            transform.position += (targetPosition - transform.position).normalized * speed * Time.deltaTime;
+            rb.MovePosition(transform.position + (targetPosition - transform.position).normalized * speed * Time.deltaTime);
         }
     }
 

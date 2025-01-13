@@ -6,21 +6,21 @@ public class Shoot : MonoBehaviour
     public float lifeTime = 1.0f;
     public GameObject shootDirection;
     public GameObject bulletPrefab;
-    
+
     #region SimpleDamage
     public float damage = 1.0f;
     public float bulletSize = .25f;
     #endregion
-    
+
     // Update is called once per frame
     private float _startTime = 0.0f;
     void Update()
     {
-        if (Input.GetKeyDown("k"))
+        if (Input.GetKeyDown("k") || Input.GetMouseButtonDown(0))
         {
             DoShoot(damage, bulletSize);
 
-        } 
+        }
     }
 
     private void DoShoot(float damage, float size)
