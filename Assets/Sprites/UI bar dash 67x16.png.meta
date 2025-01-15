@@ -212,11 +212,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4
-        y: 178
-        width: 21
-        height: 12
+        y: 179
+        width: 20
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -233,12 +233,12 @@ TextureImporter:
       name: UI bar dash 67x16_1
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 179
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,37 +252,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_2
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 162
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c79c2f0d67ea3beb0800000000000000
-      internalID: -4705225360337090180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_3
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 163
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,37 +274,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_4
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 146
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ddca380af4dcde120800000000000000
-      internalID: 2444835914611141853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_5
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 147
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,37 +296,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_6
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 130
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 32c5a1a5f8ef3f810800000000000000
-      internalID: 1798060567896415267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_7
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 131
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,37 +318,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_8
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 114
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b5fb676d804fe3a0800000000000000
-      internalID: -6634012750023756364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_9
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 115
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,37 +340,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_10
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 98
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb06e8cd9bc4dbf80800000000000000
-      internalID: -8089224994534563649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_11
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 99
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -472,37 +362,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_12
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 82
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 065b561a92fc87e50800000000000000
-      internalID: 6807418614478910816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_13
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 83
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -516,37 +384,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_14
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 66
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d5b93dbcb7acc830800000000000000
-      internalID: 4092830590443304409
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_15
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 67
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -560,37 +406,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_16
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 50
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0cb67857ba585c1c0800000000000000
-      internalID: -4484030882519749696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_17
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 51
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -604,37 +428,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_18
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 34
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2606a05014fb1ff90800000000000000
-      internalID: -6921540866313396126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_19
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 35
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -648,37 +450,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar dash 67x16_20
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 18
-        width: 21
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca45539a9e4468e50800000000000000
-      internalID: 6811207256801367212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar dash 67x16_21
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 19
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -696,11 +476,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4
-        y: 2
-        width: 21
-        height: 12
+        y: 3
+        width: 20
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -717,12 +497,12 @@ TextureImporter:
       name: UI bar dash 67x16_23
       rect:
         serializedVersion: 2
-        x: 24
+        x: 25
         y: 3
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -735,11 +515,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: UI bar dash 67x16_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 163
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95dc563c7a5748d6b0e4538db6d9a71
+      internalID: -4705225360337090180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8adc44441cf9e458990853601fadeb89
     internalID: 0
     vertices: []
     indices: 

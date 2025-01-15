@@ -244,37 +244,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI bar bomb 67x16_0
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 180
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 829b1797a80c82210800000000000000
-      internalID: 1308507392726645032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_1
       rect:
         serializedVersion: 2
-        x: 11
-        y: 176
-        width: 14
-        height: 16
+        x: 2
+        y: 177
+        width: 22
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -291,12 +269,12 @@ TextureImporter:
       name: UI bar bomb 67x16_2
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 179
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -310,37 +288,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_3
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 164
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 26214de7134ae04b0800000000000000
-      internalID: -5472255964720393630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_4
       rect:
         serializedVersion: 2
-        x: 11
-        y: 160
-        width: 14
-        height: 16
+        x: 3
+        y: 161
+        width: 21
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -357,12 +313,12 @@ TextureImporter:
       name: UI bar bomb 67x16_5
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 163
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -376,59 +332,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_6
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 148
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6fbeffcd264fced50800000000000000
-      internalID: 6768053045482744822
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI bar bomb 67x16_7
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 144
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f19a388854d6408d0800000000000000
-      internalID: -2881057716199773921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_8
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 147
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -442,59 +354,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_9
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 132
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07c288d9a6c35f7e0800000000000000
-      internalID: -1732412053046940560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI bar bomb 67x16_10
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 128
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f680c3953ead05550800000000000000
-      internalID: 6147654161350264943
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_11
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 131
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -508,59 +376,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_12
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 116
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c298ef30262175960800000000000000
-      internalID: 7590555909139368236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI bar bomb 67x16_13
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 112
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66f35b5511d4ce050800000000000000
-      internalID: 5831120354385674086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_14
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 115
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -574,59 +398,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_15
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 100
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9717079e4e6073290800000000000000
-      internalID: -7910846640214216327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI bar bomb 67x16_16
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 96
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba1dd713240d178f0800000000000000
-      internalID: -544425097218371157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_17
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 99
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -640,59 +420,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_18
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 84
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d7625cdc66a0e9e0800000000000000
-      internalID: -1594091281606088747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI bar bomb 67x16_19
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 80
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6abfd566f75300c60800000000000000
-      internalID: 7782278977390771110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_20
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 83
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -706,59 +442,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_21
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 68
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c0371710c74ad58f0800000000000000
-      internalID: -550102726962220276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI bar bomb 67x16_22
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 64
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 913e70dddb7a196e0800000000000000
-      internalID: -1832499139464142055
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_23
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 67
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -772,59 +464,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_24
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 52
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d543ea1bf6f117c60800000000000000
-      internalID: 7814061393047336029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI bar bomb 67x16_25
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 48
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed582f7ed87e5a620800000000000000
-      internalID: 2784886541266355678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_26
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 51
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -838,59 +486,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_27
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 36
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c576891738eaa470800000000000000
-      internalID: 8406786977789539777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI bar bomb 67x16_28
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 32
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2307a7afec7c1a40800000000000000
-      internalID: 5340280626906333999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_29
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 35
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -904,59 +508,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_30
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 20
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fdcfbf72f39d415e0800000000000000
-      internalID: -1939686674212848417
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: UI bar bomb 67x16_31
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 16
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a03efa8d31bbb2b80800000000000000
-      internalID: -8418429384524831990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_32
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 19
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -970,37 +530,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar bomb 67x16_33
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 4
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c01de01706607230800000000000000
-      internalID: 3634517079822766281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar bomb 67x16_34
       rect:
         serializedVersion: 2
-        x: 11
-        y: 0
-        width: 14
-        height: 16
+        x: 2
+        y: 1
+        width: 22
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1017,12 +555,12 @@ TextureImporter:
       name: UI bar bomb 67x16_35
       rect:
         serializedVersion: 2
-        x: 23
+        x: 24
         y: 3
-        width: 44
+        width: 42
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1039,7 +577,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 20b8b717b43034d83986a90ad5b17a42
     internalID: 0
     vertices: []
     indices: 
