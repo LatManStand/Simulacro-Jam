@@ -158,6 +158,7 @@ public class UISystemManager : MonoBehaviour
         skillRemovedOrder.Add("Dash");
         isDashDisabled = true;
         gameUI.GetComponent<GameUI>().RemoveDash();
+        PlayerController.instance.RemoveDashSkill();
     }
     
     public void DoShoot(float cooldown)
@@ -173,6 +174,7 @@ public class UISystemManager : MonoBehaviour
         skillRemovedOrder.Add("Shoot");
         isShootDisabled = true;
         gameUI.GetComponent<GameUI>().RemoveShoot();
+        PlayerController.instance.RemoveShootSkill();
     }
     
     public void DoBomb(float cooldown)
@@ -188,6 +190,7 @@ public class UISystemManager : MonoBehaviour
         skillRemovedOrder.Add("Bomb");
         isBombDisabled = true;
         gameUI.GetComponent<GameUI>().RemoveBomb();
+        PlayerController.instance.RemoveBombSkill();
     }
     
     public void DoWave(float cooldown)
@@ -203,6 +206,7 @@ public class UISystemManager : MonoBehaviour
         skillRemovedOrder.Add("Wave");
         isWaveDisabled = true;
         gameUI.GetComponent<GameUI>().RemoveWave();
+        PlayerController.instance.RemoveWaveSkill();
     }
     
     public void LoadNextLevel()

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &191384534353951911
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7000315397310499101}
+  - component: {fileID: 72109846832539013}
+  - component: {fileID: 6654958965791799388}
+  m_Layer: 0
+  m_Name: UISystemManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7000315397310499101
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 191384534353951911}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.3940775, y: 1.8900131, z: -0.06394226}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &72109846832539013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 191384534353951911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1a075f35269f4abb8cfc1927554976e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shoot: {fileID: 0}
+  shootDisabled: {fileID: 0}
+  dash: {fileID: 0}
+  dashDisabled: {fileID: 0}
+  bomb: {fileID: 0}
+  bombDisabled: {fileID: 0}
+  wave: {fileID: 0}
+  waveDisabled: {fileID: 0}
+--- !u!114 &6654958965791799388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 191384534353951911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f21e19b445af40a6b61ae401ce7fa1a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  readyText: {fileID: 0}
+  goText: {fileID: 0}
+  isDashDisabled: 0
+  isShootDisabled: 0
+  isBombDisabled: 0
+  isWaveDisabled: 0
+  skillRemovedOrder: []

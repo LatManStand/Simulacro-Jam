@@ -1,20 +1,24 @@
 using UnityEngine;
 
-public class SkillSystem : MonoBehaviour
+public class SkillSystem: MonoBehaviour
 {
-    public GameObject player;
-    public bool isPulseAvailable = true;
-    public bool isShootAvailable = true;
-
-    public void RemovePulseSkill()
+    public void RemoveWaveSkill()
     {        
-        isPulseAvailable = false;
-        player.GetComponent<PulseShoot>().enabled = isPulseAvailable;
+        GetComponent<PulseShoot>().enabled = false;
     }
 
     public void RemoveShootSkill()
     {
-        isShootAvailable = false;
-        player.GetComponent<Shoot>().enabled = isShootAvailable;
+        GetComponent<Shoot>().enabled = false;
+    }
+    
+    public void RemoveDashSkill()
+    {
+        GetComponent<Dash>().enabled = false;
+    }
+    
+    public void RemoveBombSkill()
+    {
+        GetComponent<Bomb>().enabled = false;
     }
 }
