@@ -31,5 +31,6 @@ public class Shoot : MonoBehaviour
         go.GetComponent<ShootBullet>().lifeTime = lifeTime;
         go.GetComponent<ShootBullet>().damage = damage;
         go.transform.localScale = new Vector3(size, size, go.transform.localScale.z);
+        UISystemManager.instance.DoShoot(0.1f);
     }
 }

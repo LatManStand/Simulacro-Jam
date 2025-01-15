@@ -24,6 +24,7 @@ public class Bomb : MonoBehaviour
             putBomb();
             isOnCooldown = true;
             cooldownTimer = 0f;
+            UISystemManager.instance.DoBomb(cooldown);
         }
 
         if (isOnCooldown)

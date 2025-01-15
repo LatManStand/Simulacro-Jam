@@ -27,7 +27,8 @@ public class Dash : MonoBehaviour
             PlayerController.instance.currentSpeed = dashSpeed;
             isOnCooldown = true;
             cooldownTimer = 0f;
-            Debug.Log("hola");
+            UISystemManager.instance.DoDash(cooldown);
+            Debug.Log("hola, soy concha");
             if(collider != null)
             {
                 collider.enabled = false;

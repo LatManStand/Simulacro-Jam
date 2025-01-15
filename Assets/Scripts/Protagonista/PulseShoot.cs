@@ -39,5 +39,6 @@ public class PulseShoot : MonoBehaviour
         GameObject go = Instantiate(pulsePrefab, transform.position, Quaternion.identity);
         go.GetComponent<PulseArea>().lifeTime = pulseLifeTime;
         go.GetComponent<PulseArea>().pulseVelocity = pulseVelocity;
+        UISystemManager.instance.DoWave(pulseTimer);
     }
 }
