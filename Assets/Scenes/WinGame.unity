@@ -1208,6 +1208,7 @@ MonoBehaviour:
   skill2: {fileID: 233217046}
   skill3: {fileID: 666592638}
   skill4: {fileID: 907780503}
+  enemiesCount: {fileID: 1560631230}
 --- !u!4 &917834428
 Transform:
   m_ObjectHideFlags: 0
@@ -2249,7 +2250,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 0
-  orthographic size: 5
+  orthographic size: 1.6
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2

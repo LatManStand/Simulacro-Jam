@@ -22,6 +22,7 @@ public class UISystemManager : MonoBehaviour
     public bool isWaveDisabled = false;
 
     public List<string> skillRemovedOrder = new List<string>();
+    public int killedEnemies = 0;
 
     void Update()
     {

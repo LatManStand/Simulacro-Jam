@@ -8,12 +8,16 @@ public class WinGameManager : MonoBehaviour
     public GameObject skill3;
     public GameObject skill4;
     
+    public GameObject enemiesCount;
+    
     void Start()
     {
         skill1.SetActive(false);
         skill2.SetActive(false);
         skill3.SetActive(false);
         skill4.SetActive(false);
+        
+        enemiesCount.GetComponent<TextMeshProUGUI>().text = UISystemManager.instance.killedEnemies.ToString();
 
         var skills = UISystemManager.instance.skillRemovedOrder;
 

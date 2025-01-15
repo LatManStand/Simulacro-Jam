@@ -46,6 +46,7 @@ public class EnemyGenerator : MonoBehaviour
 
     public void KillEnemy(Enemy enemy)
     {
+        UISystemManager.instance.killedEnemies++;
         enemies.Remove(enemy);
         Destroy(enemy.gameObject);
         if (enemies.Count == 0)
