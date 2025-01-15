@@ -389,7 +389,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d18d0d9a3ee9c4d1b8f323fc23988df0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextLevel: Level4
+  nextLevel: WinGame
   TimeLeft: 5
   TimerOn: 0
 --- !u!4 &400379662

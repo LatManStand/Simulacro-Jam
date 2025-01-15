@@ -211,12 +211,12 @@ TextureImporter:
       name: UI bar wave 67x16_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 179
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -234,11 +234,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 42
-        y: 178
-        width: 23
-        height: 12
+        y: 179
+        width: 22
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -255,12 +255,12 @@ TextureImporter:
       name: UI bar wave 67x16_2
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 163
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -277,12 +277,12 @@ TextureImporter:
       name: UI bar wave 67x16_3
       rect:
         serializedVersion: 2
-        x: 42
-        y: 162
-        width: 23
-        height: 12
+        x: 43
+        y: 163
+        width: 21
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -299,12 +299,12 @@ TextureImporter:
       name: UI bar wave 67x16_4
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 147
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,37 +318,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar wave 67x16_5
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 146
-        width: 23
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d478106235c4ce7a0800000000000000
-      internalID: -6346613854868240563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar wave 67x16_6
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 131
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,37 +340,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar wave 67x16_7
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 130
-        width: 23
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0cd04c61d54a23970800000000000000
-      internalID: 8733223347145674176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar wave 67x16_8
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 115
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,37 +362,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar wave 67x16_9
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 114
-        width: 23
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a549dce673d53be0800000000000000
-      internalID: -1498058793297558110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar wave 67x16_10
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 99
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,37 +384,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar wave 67x16_11
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 98
-        width: 23
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffba5543175ec02a0800000000000000
-      internalID: -6769783865472603137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar wave 67x16_12
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 83
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,37 +406,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar wave 67x16_13
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 82
-        width: 23
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf0ed583fd10fc430800000000000000
-      internalID: 3805262268386369788
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar wave 67x16_14
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 67
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -538,37 +428,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar wave 67x16_15
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 66
-        width: 23
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d09cd8bccd9666370800000000000000
-      internalID: 8315450159014988045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar wave 67x16_16
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 51
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -582,37 +450,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar wave 67x16_17
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 50
-        width: 23
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 443bca07d7a13b0d0800000000000000
-      internalID: -3408351366925733052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar wave 67x16_18
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 35
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -626,37 +472,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar wave 67x16_19
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 34
-        width: 23
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d74d934b8361fde0800000000000000
-      internalID: -1301149367547377711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar wave 67x16_20
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 19
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -670,37 +494,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI bar wave 67x16_21
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 18
-        width: 23
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 357c98a6ad9dfb150800000000000000
-      internalID: 5890666369737410387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: UI bar wave 67x16_22
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 3
-        width: 43
+        width: 41
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -717,12 +519,12 @@ TextureImporter:
       name: UI bar wave 67x16_23
       rect:
         serializedVersion: 2
-        x: 42
-        y: 2
-        width: 23
-        height: 12
+        x: 43
+        y: 3
+        width: 21
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -739,7 +541,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 06c9e0afe1b624865b19e8be3bf6a7f7
     internalID: 0
     vertices: []
     indices: 
