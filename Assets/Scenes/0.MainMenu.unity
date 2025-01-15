@@ -708,7 +708,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Ciaoworld!
+  m_text: Ciao_world.exe
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cb56d5752ab314def931fce28f654fbf, type: 2}
   m_sharedMaterial: {fileID: 5352172582846365779, guid: cb56d5752ab314def931fce28f654fbf, type: 2}
